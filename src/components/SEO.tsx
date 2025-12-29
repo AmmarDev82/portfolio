@@ -9,13 +9,13 @@ interface SEOProps {
 }
 
 const SEO: React.FC<SEOProps> = ({
-  title = "Ddumba Abdallah Kato - Software Developer & Full Stack Specialist",
+  title = "Ammar Shahbaz Abdallah Kato - Software Developer & Full Stack Specialist",
   description = "Software Developer specializing in Full Stack Development with expertise in Web Technologies, Database Systems and Cloud Computing. Based in Kampala, Uganda.",
-  canonicalUrl = "https://ddumba.kyakabi.com",
-  ogImage = "https://ddumba.kyakabi.com/og-image.jpg",
+  canonicalUrl = "https://Ammar Shahbaz.kyakabi.com",
+  ogImage = "https://Ammar Shahbaz.kyakabi.com/og-image.jpg",
   ogType = "website"
 }) => {
-  const siteTitle = "Ddumba Abdallah Kato - Portfolio";
+  const siteTitle = "Ammar Shahbaz Abdallah Kato - Portfolio";
   const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
 
   return (
@@ -32,7 +32,7 @@ const SEO: React.FC<SEOProps> = ({
       <meta property="og:type" content={ogType} />
       <meta property="og:url" content={canonicalUrl} />
       <meta property="og:image" content={ogImage} />
-      <meta property="og:site_name" content="Ddumba Abdallah Kato Portfolio" />
+      <meta property="og:site_name" content="Ammar Shahbaz Abdallah Kato Portfolio" />
       
       {/* Twitter Meta Tags */}
       <meta name="twitter:card" content="summary_large_image" />
@@ -42,7 +42,7 @@ const SEO: React.FC<SEOProps> = ({
       
       {/* Additional SEO Tags */}
       <meta name="keywords" content="software developer, full stack developer, web developer, Kampala, Uganda, React, Node.js, MongoDB, AWS, portfolio" />
-      <meta name="author" content="Ddumba Abdallah Kato" />
+      <meta name="author" content="Ammar Shahbaz Abdallah Kato" />
       <meta name="robots" content="index, follow" />
       
       {/* Structured Data */}
@@ -52,11 +52,11 @@ const SEO: React.FC<SEOProps> = ({
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Person",
-            "name": "Ddumba Abdallah Kato",
+            "name": "Ammar Shahbaz Abdallah Kato",
             "jobTitle": "Software Developer",
-            "url": "https://ddumba.kyakabi.com",
+            "url": "https://Ammar Shahbaz.kyakabi.com",
             "sameAs": [
-              "https://github.com/abdallahddumbakato",
+              "https://github.com/abdallahAmmar Shahbazkato",
               "https://linkedin.com/in/Hatalabdallah"
             ],
             "knowsAbout": [

@@ -101,9 +101,9 @@ const Skills = () => {
 	return (
 		<>
 			<SEO 
-				title="Technical Skills & Expertise - Ddumba Abdallah Kato"
+				title="Technical Skills & Expertise - Ammar Shahbaz Abdallah Kato"
 				description="Comprehensive overview of my technical skills including programming languages (C++, Python, JavaScript, TypeScript), frontend development (React, Next.js), backend development (Node.js), databases (MySQL, MongoDB), and DevOps tools."
-				canonicalUrl="https://ddumba.kyakabi.com/skills"
+				canonicalUrl="https://Ammar Shahbaz.kyakabi.com/skills"
 			/>
 			<div className="min-h-screen pt-20 px-4 max-w-6xl mx-auto pb-20">
 				<ScrollAnimation>

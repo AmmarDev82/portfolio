@@ -43,7 +43,7 @@ const Kali = () => {
 			<SEO 
 				title="Kali Linux for VirtualBox - Pre-configured Security Environment"
 				description="Download pre-configured Kali Linux OVA file for VirtualBox. Includes essential security tools, penetration testing environment, and optimized settings for cybersecurity professionals."
-				canonicalUrl="https://ddumba.kyakabi.com/kali"
+				canonicalUrl="https://Ammar Shahbaz.kyakabi.com/kali"
 			/>
 			<div className="min-h-screen">
 				{/* Hero Section */}

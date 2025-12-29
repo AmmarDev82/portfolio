@@ -90,7 +90,7 @@ export default function NotFound() {
 						animate={{ opacity: 1 }}
 						transition={{ delay: 0.6 }}
 					>
-						— Ddumba Abdallah Kato, Software Developer
+						— Ammar Shahbaz, Software Developer
 					</motion.p>
 				</ScrollAnimation>
 
