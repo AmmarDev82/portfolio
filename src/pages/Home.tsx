@@ -51,7 +51,7 @@ const Home = () => {
 				description="Software Engineer with 3+ years of experience specializing in Full Stack Development and System Architecture. Currently focused on pursuing advanced research in Germany."
 				canonicalUrl="https://ammardev.com"
 			/>
-			<div className="min-h-screen flex items-center justify-center px-4 mt-7 sm:mt-0 md:mt-3 lg:mt-5">
+			<div className="min-h-screen flex items-center justify-center px-4 mt-16 sm:mt-0 md:mt-3 lg:mt-5">
 				<div className="text-center relative z-10 max-w-4xl mx-auto">
 					<motion.h1
 						className="text-4xl sm:text-6xl md:text-8xl font-bold mb-4 sm:mb-6 relative tracking-tighter"
